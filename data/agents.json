@@ -3138,7 +3138,8 @@
     ],
     "github_stars": 943,
     "url": "https://github.com/Azure/counterfit",
-    "use_case": "Attacking a deployed ML service"
+    "use_case": "Attacking a deployed ML service",
+    "status": "archived"
   },
   {
     "name": "Opacus",
@@ -4690,7 +4691,8 @@
     ],
     "github_stars": 3852,
     "url": "https://github.com/facebookresearch/habitat-sim",
-    "use_case": "Photorealistic indoor simulation"
+    "use_case": "Photorealistic indoor simulation",
+    "status": "archived"
   },
   {
     "name": "Lance",
